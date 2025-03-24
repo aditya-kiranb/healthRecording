@@ -1,0 +1,349 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:9:5-38:19
+INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml
+MERGED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:13:5-14:19
+MERGED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:13:5-14:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\1d97c5c807f011fe831c4f7a72e4654c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\1d97c5c807f011fe831c4f7a72e4654c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\a6a1104de5655de5eeeedf2fd0bf6bca\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\a6a1104de5655de5eeeedf2fd0bf6bca\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+MERGED from [:audio_waveforms] C:\Users\adity\Downloads\RecordingApp-main\build\audio_waveforms\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_sound] C:\Users\adity\Downloads\RecordingApp-main\build\flutter_sound\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\adity\Downloads\RecordingApp-main\build\path_provider_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler_android] C:\Users\adity\Downloads\RecordingApp-main\build\permission_handler_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a5761ff66e5b5108490cb6f1ba32d5dd\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\487bc5defe72b733af84478a41306333\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\e4d6db5972f40b4a782112e59fecedd9\transformed\jetified-exoplayer-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\e82ec6cdc0b0d927a6e4e16a52caf35d\transformed\jetified-exoplayer-dash-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\73586af84cff5b748b723f9a762953e9\transformed\jetified-exoplayer-hls-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\845d88b79691a2a4cddd4eed92e0597a\transformed\jetified-exoplayer-rtsp-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\7426182d9615237f70523ec2d1cb26c3\transformed\jetified-exoplayer-smoothstreaming-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\64bac0cd09201e7ea37cd91871ce1f9c\transformed\jetified-exoplayer-ui-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\29ada9c6aa475d4dc329b673da090cbb\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\ada23b5cecae795859b8359ed1727739\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\757c6c2a43496003e833822d19f3b226\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\422b9afa0cfcd6837b98f0303e7dc857\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c8e94a572316e34b62af926630193d6f\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e4eb76dbd19189a80b4c8ceae02a5336\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\1916db73684ce5b33ad952543336743d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\afee1ea79477e4397020747bfb40025c\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\343300e9ffd8cbfc30198b73b5fd57c5\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\0840f560f49b5a6ade27bbab377004d1\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\2e3aaff023bc85154d43ea1edfc9f38d\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\3ecafdda9343620a977c412ee359e5dc\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\91477909d6119d13e01dd3a9b7e09343\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\3d32b248433fd217b13476bac8003b05\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\afd67e722d4ed6cb8dc673d4f10da23d\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.4.3] C:\Users\adity\.gradle\caches\8.10.2\transforms\8cf180ca84fd5693bad5d88cc106ab7a\transformed\media-1.4.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\aad09200d824673bc2312632622802a4\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\43b6531a6a88830c8b1bd25999634b0a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\28f5878f3c4a672446f354032abf67db\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\b2fac7cd9383fd992ad9a85e7d343ebf\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\1d97c5c807f011fe831c4f7a72e4654c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\2bb8b2bc21b8b67a4d226e08a78da39a\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\702993b254e073809d67030505b8c61e\transformed\jetified-exoplayer-datasource-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\6595dd867ffa6deb5ecff5ff0abb5db7\transformed\jetified-exoplayer-database-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\07ee4fb20e9c4ef9c069fa0acaca832e\transformed\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\4a7edeaa991959a9ac65602435fcac7f\transformed\jetified-exoplayer-decoder-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\3ed235fb8cad5b47d7494aa6f17ce1a7\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\a6a1104de5655de5eeeedf2fd0bf6bca\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\914467ed12d37652295690fb7ba1cc41\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\52b6107a7fe79a23d2765b0a08aa9970\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\526d1bcdcc8e8b3b4c9c94c2e5340ad1\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\c09bc3afa14c97f283bb804dfc3a8789\transformed\jetified-core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\7a334a685bc96a8976d51371527dfff4\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\62a8437e40fd1529a192b0949bc42d48\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\adity\.gradle\caches\8.10.2\transforms\c66420cb8ebf5d6fa50b2c7a540b7cdb\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:5:5-70
+MERGED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:10:5-71
+MERGED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:7:22-77
+queries
+ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:41:5-46:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:42:9-45:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:43:21-70
+data
+ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:44:13-50
+	android:mimeType
+		ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:44:19-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-sdk
+INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml
+MERGED from [:audio_waveforms] C:\Users\adity\Downloads\RecordingApp-main\build\audio_waveforms\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:audio_waveforms] C:\Users\adity\Downloads\RecordingApp-main\build\audio_waveforms\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sound] C:\Users\adity\Downloads\RecordingApp-main\build\flutter_sound\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sound] C:\Users\adity\Downloads\RecordingApp-main\build\flutter_sound\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\adity\Downloads\RecordingApp-main\build\path_provider_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\adity\Downloads\RecordingApp-main\build\path_provider_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\Users\adity\Downloads\RecordingApp-main\build\permission_handler_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\Users\adity\Downloads\RecordingApp-main\build\permission_handler_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a5761ff66e5b5108490cb6f1ba32d5dd\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a5761ff66e5b5108490cb6f1ba32d5dd\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\487bc5defe72b733af84478a41306333\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\487bc5defe72b733af84478a41306333\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\e4d6db5972f40b4a782112e59fecedd9\transformed\jetified-exoplayer-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\e4d6db5972f40b4a782112e59fecedd9\transformed\jetified-exoplayer-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\e82ec6cdc0b0d927a6e4e16a52caf35d\transformed\jetified-exoplayer-dash-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\e82ec6cdc0b0d927a6e4e16a52caf35d\transformed\jetified-exoplayer-dash-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\73586af84cff5b748b723f9a762953e9\transformed\jetified-exoplayer-hls-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\73586af84cff5b748b723f9a762953e9\transformed\jetified-exoplayer-hls-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\845d88b79691a2a4cddd4eed92e0597a\transformed\jetified-exoplayer-rtsp-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\845d88b79691a2a4cddd4eed92e0597a\transformed\jetified-exoplayer-rtsp-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\7426182d9615237f70523ec2d1cb26c3\transformed\jetified-exoplayer-smoothstreaming-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\7426182d9615237f70523ec2d1cb26c3\transformed\jetified-exoplayer-smoothstreaming-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\64bac0cd09201e7ea37cd91871ce1f9c\transformed\jetified-exoplayer-ui-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\64bac0cd09201e7ea37cd91871ce1f9c\transformed\jetified-exoplayer-ui-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\29ada9c6aa475d4dc329b673da090cbb\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\29ada9c6aa475d4dc329b673da090cbb\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\ada23b5cecae795859b8359ed1727739\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\ada23b5cecae795859b8359ed1727739\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\757c6c2a43496003e833822d19f3b226\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\757c6c2a43496003e833822d19f3b226\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\422b9afa0cfcd6837b98f0303e7dc857\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\422b9afa0cfcd6837b98f0303e7dc857\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c8e94a572316e34b62af926630193d6f\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c8e94a572316e34b62af926630193d6f\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e4eb76dbd19189a80b4c8ceae02a5336\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e4eb76dbd19189a80b4c8ceae02a5336\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\1916db73684ce5b33ad952543336743d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\1916db73684ce5b33ad952543336743d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\afee1ea79477e4397020747bfb40025c\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\afee1ea79477e4397020747bfb40025c\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\343300e9ffd8cbfc30198b73b5fd57c5\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\343300e9ffd8cbfc30198b73b5fd57c5\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\0840f560f49b5a6ade27bbab377004d1\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\0840f560f49b5a6ade27bbab377004d1\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\2e3aaff023bc85154d43ea1edfc9f38d\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\2e3aaff023bc85154d43ea1edfc9f38d\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\3ecafdda9343620a977c412ee359e5dc\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\3ecafdda9343620a977c412ee359e5dc\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\91477909d6119d13e01dd3a9b7e09343\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\91477909d6119d13e01dd3a9b7e09343\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\3d32b248433fd217b13476bac8003b05\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\3d32b248433fd217b13476bac8003b05\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\afd67e722d4ed6cb8dc673d4f10da23d\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\afd67e722d4ed6cb8dc673d4f10da23d\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.4.3] C:\Users\adity\.gradle\caches\8.10.2\transforms\8cf180ca84fd5693bad5d88cc106ab7a\transformed\media-1.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] C:\Users\adity\.gradle\caches\8.10.2\transforms\8cf180ca84fd5693bad5d88cc106ab7a\transformed\media-1.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\aad09200d824673bc2312632622802a4\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\aad09200d824673bc2312632622802a4\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\43b6531a6a88830c8b1bd25999634b0a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\43b6531a6a88830c8b1bd25999634b0a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\28f5878f3c4a672446f354032abf67db\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\28f5878f3c4a672446f354032abf67db\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\b2fac7cd9383fd992ad9a85e7d343ebf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\b2fac7cd9383fd992ad9a85e7d343ebf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\1d97c5c807f011fe831c4f7a72e4654c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\1d97c5c807f011fe831c4f7a72e4654c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\2bb8b2bc21b8b67a4d226e08a78da39a\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\2bb8b2bc21b8b67a4d226e08a78da39a\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\702993b254e073809d67030505b8c61e\transformed\jetified-exoplayer-datasource-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\702993b254e073809d67030505b8c61e\transformed\jetified-exoplayer-datasource-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\6595dd867ffa6deb5ecff5ff0abb5db7\transformed\jetified-exoplayer-database-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\6595dd867ffa6deb5ecff5ff0abb5db7\transformed\jetified-exoplayer-database-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\07ee4fb20e9c4ef9c069fa0acaca832e\transformed\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\07ee4fb20e9c4ef9c069fa0acaca832e\transformed\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\4a7edeaa991959a9ac65602435fcac7f\transformed\jetified-exoplayer-decoder-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\4a7edeaa991959a9ac65602435fcac7f\transformed\jetified-exoplayer-decoder-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\3ed235fb8cad5b47d7494aa6f17ce1a7\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\3ed235fb8cad5b47d7494aa6f17ce1a7\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\a6a1104de5655de5eeeedf2fd0bf6bca\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\a6a1104de5655de5eeeedf2fd0bf6bca\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\914467ed12d37652295690fb7ba1cc41\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\914467ed12d37652295690fb7ba1cc41\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\52b6107a7fe79a23d2765b0a08aa9970\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\52b6107a7fe79a23d2765b0a08aa9970\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\526d1bcdcc8e8b3b4c9c94c2e5340ad1\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\526d1bcdcc8e8b3b4c9c94c2e5340ad1\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\c09bc3afa14c97f283bb804dfc3a8789\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\c09bc3afa14c97f283bb804dfc3a8789\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\7a334a685bc96a8976d51371527dfff4\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\7a334a685bc96a8976d51371527dfff4\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\62a8437e40fd1529a192b0949bc42d48\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\62a8437e40fd1529a192b0949bc42d48\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\adity\.gradle\caches\8.10.2\transforms\c66420cb8ebf5d6fa50b2c7a540b7cdb\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\adity\.gradle\caches\8.10.2\transforms\c66420cb8ebf5d6fa50b2c7a540b7cdb\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:9:22-77
+uses-permission#Manifest.permission.CAPTURE_AUDIO_OUTPUT
+ADDED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:11:22-77
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\29ada9c6aa475d4dc329b673da090cbb\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\3ed235fb8cad5b47d7494aa6f17ce1a7\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\3ed235fb8cad5b47d7494aa6f17ce1a7\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\29ada9c6aa475d4dc329b673da090cbb\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:22-76
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\1d97c5c807f011fe831c4f7a72e4654c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\1d97c5c807f011fe831c4f7a72e4654c\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.recording.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.recording.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

@@ -1,0 +1,177 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.recording"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10    <!--
+11         The INTERNET permission is required for development. Specifically,
+12         the Flutter tool needs it to communicate with the running application
+13         to allow setting breakpoints, to provide hot reload, etc.
+14    -->
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml:6:5-66
+15-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\debug\AndroidManifest.xml:6:22-64
+16    <!-- Update with your actual package name -->
+17    <!-- Permissions for recording audio -->
+18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+18-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:5:5-70
+18-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:5:22-68
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:6:5-80
+19-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:6:22-78
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Required for querying text processing activities -->
+20-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:7:5-79
+20-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:7:22-77
+21    <queries>
+21-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:41:5-46:15
+22        <intent>
+22-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:42:9-45:18
+23            <action android:name="android.intent.action.PROCESS_TEXT" />
+23-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:43:13-72
+23-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:43:21-70
+24
+25            <data android:mimeType="text/plain" />
+25-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:44:13-50
+25-->C:\Users\adity\Downloads\RecordingApp-main\android\app\src\main\AndroidManifest.xml:44:19-48
+26        </intent>
+27    </queries>
+28
+29    <uses-permission android:name="android.permission.BLUETOOTH" />
+29-->[com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:7:5-68
+29-->[com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:7:22-65
+30    <uses-permission android:name="android.permission.WAKE_LOCK" />
+30-->[com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:8:5-68
+30-->[com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:8:22-65
+31    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+31-->[com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:9:5-80
+31-->[com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:9:22-77
+32    <uses-permission android:name="Manifest.permission.CAPTURE_AUDIO_OUTPUT" />
+32-->[com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:11:5-80
+32-->[com.github.canardoux:flutter_sound_core:9.26.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\744e10d0e36b579e82e1f6eb45274ebf\transformed\jetified-flutter_sound_core-9.26.0\AndroidManifest.xml:11:22-77
+33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+33-->[com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\29ada9c6aa475d4dc329b673da090cbb\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:5-79
+33-->[com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\29ada9c6aa475d4dc329b673da090cbb\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:22-76
+34
+35    <permission
+35-->[androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+36        android:name="com.example.recording.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+36-->[androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+37        android:protectionLevel="signature" />
+37-->[androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+38
+39    <uses-permission android:name="com.example.recording.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+39-->[androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+39-->[androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+40
+41    <application
+42        android:name="android.app.Application"
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.13.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\06f1d28345e99554a5d9fca85b6b394d\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+44        android:debuggable="true"
+45        android:extractNativeLibs="false"
+46        android:icon="@mipmap/ic_launcher"
+47        android:label="recording" >
+48        <activity
+49            android:name="com.example.recording.MainActivity"
+50            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+51            android:exported="true"
+52            android:hardwareAccelerated="true"
+53            android:launchMode="singleTop"
+54            android:taskAffinity=""
+55            android:theme="@style/LaunchTheme"
+56            android:windowSoftInputMode="adjustResize" >
+57            <meta-data
+58                android:name="io.flutter.embedding.android.NormalTheme"
+59                android:resource="@style/NormalTheme" />
+60
+61            <intent-filter>
+62                <action android:name="android.intent.action.MAIN" />
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+65            </intent-filter>
+66        </activity>
+67
+68        <!-- Flutter metadata (Do not delete) -->
+69        <meta-data
+70            android:name="flutterEmbedding"
+71            android:value="2" />
+72
+73        <uses-library
+73-->[androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+74            android:name="androidx.window.extensions"
+74-->[androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+75            android:required="false" />
+75-->[androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+76        <uses-library
+76-->[androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+77            android:name="androidx.window.sidecar"
+77-->[androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+78            android:required="false" />
+78-->[androidx.window:window:1.2.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\a19e0c72e85c0e4296dfa7f4a24f2874\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+79
+80        <provider
+80-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+81            android:name="androidx.startup.InitializationProvider"
+81-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+82            android:authorities="com.example.recording.androidx-startup"
+82-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+83            android:exported="false" >
+83-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\adity\.gradle\caches\8.10.2\transforms\e9ebc43e02c0dfffcb3a6a0b12f874ff\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+88                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+89                android:value="androidx.startup" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+90        </provider>
+91
+92        <receiver
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+93            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+94            android:directBootAware="false"
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+95            android:enabled="true"
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+96            android:exported="true"
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+97            android:permission="android.permission.DUMP" >
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+98            <intent-filter>
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+99                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+100            </intent-filter>
+101            <intent-filter>
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+102                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+103            </intent-filter>
+104            <intent-filter>
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+105                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+106            </intent-filter>
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+108                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\adity\.gradle\caches\8.10.2\transforms\c0ac9d9fcfffb7b239c995a23e43f4c1\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+109            </intent-filter>
+110        </receiver>
+111    </application>
+112
+113</manifest>
